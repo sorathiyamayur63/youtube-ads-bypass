@@ -19,9 +19,9 @@ Simple browser extension that skips YouTube ads by adding `&t=1`.
 
 ## Screenshot
 
-```markdown
+
 ![Extension](images/extension.png)
-```
+
 ## Disclaimer
 
 This is a simple personal/educational extension. YouTube changes may affect how it
