@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube T1 Appender",
+  "version": "1.0",
+  "description": "Adds &t=1 to YouTube video links.",
+  "permissions": ["tabs", "scripting"],
+  "host_permissions": ["https://www.youtube.com/*"],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
